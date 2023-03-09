@@ -3,7 +3,7 @@
 https://openai.com/blog/openai-api
 
 ``` py
- import openai
+import openai
 
 OPENAI_API_KEY = ""
 
